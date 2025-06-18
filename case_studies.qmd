@@ -1,0 +1,14 @@
+---
+title: "Case Studies"
+listing:
+  type: table
+  contents: case_studies
+  fields: [title, description]
+  categories: true
+  sort-ui: false
+  filter-ui: [categories]
+---
+
+Contributed case studies describing uses of Bayesian statistics in real clinical development settings.
+
+Filter by category using the tags on the right.

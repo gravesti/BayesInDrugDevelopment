@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bayes in Drug Development"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - about.qmd
+      - case_studies.qmd
+      - contributing.qmd
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-title: Contents
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "Dose Finding with Bayesian Models"
+format: html
+description: "a short description"
+categories: [dose finding, phase I]
+---
+
+A Bayesian dose finding procedure can help optimise choices...

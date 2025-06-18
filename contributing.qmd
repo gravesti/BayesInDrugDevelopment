@@ -1,0 +1,7 @@
+---
+title: "Contributing"
+---
+
+To contribute a case study please create a github issue or email.
+
+Case studies should be written in quarto html format.

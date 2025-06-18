@@ -1,0 +1,24 @@
+---
+title: "Dynamic Borrowing in Early Development Oncology"
+format: html
+description: "Rare disease phase 2 with ps-augmented survival"
+categories: [dynamic borrowing, oncology]
+---
+
+In a rare oncology indication, we planned a small trial and augmented the results with external control data
+to aid in decision making for the continued development.
+
+## Methods Introduction
+
+...
+
+## Code
+
+
+```{r}
+print(1:10)
+```
+
+## References
+
+...

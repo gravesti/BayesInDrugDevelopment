@@ -1,4 +1,9 @@
-# Bayes in Drug Development
+---
+title: "About"
+---
 
 A cross industry collaboration to share information to promote the understanding and use of Bayesian statistics
 in drug development.
+
+This project was initiated by XXXXX
+
