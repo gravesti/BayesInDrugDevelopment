@@ -2,4 +2,8 @@
 title: "Bayes in Drug Development"
 ---
 
-Some content here.
+Welcome to the XXXX website for using Bayesian statistics in drug development.
+
+Our [Case Studies](case_studies.qmd) give detailed examples of application of Bayesian methodology.
+
+See [Contributing](contributing.qmd) for details on how to contribute a case study.
