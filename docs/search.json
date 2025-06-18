@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "case_studies/DoseFinding.html",
+    "href": "case_studies/DoseFinding.html",
+    "title": "Dose Finding with Bayesian Models",
+    "section": "",
+    "text": "A Bayesian dose finding procedure can help optimise choices…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A cross industry collaboration to share information to promote the understanding and use of Bayesian statistics in drug development.\nThis project was initiated by XXXXX"
+  },
+  {
+    "objectID": "case_studies.html",
+    "href": "case_studies.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "Contributed case studies describing uses of Bayesian statistics in real clinical development settings.\nFilter by category using the tags on the right.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nDose Finding with Bayesian Models\n\n\na short description\n\n\n\n\nDynamic Borrowing in Early Development Oncology\n\n\nRare disease phase 2 with ps-augmented survival\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "To contribute a case study please create a github issue or email.\nCase studies should be written in quarto html format."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bayes in Drug Development",
+    "section": "",
+    "text": "Some content here."
+  },
+  {
+    "objectID": "case_studies/DynamicBorrowingEarlyOnco.html",
+    "href": "case_studies/DynamicBorrowingEarlyOnco.html",
+    "title": "Dynamic Borrowing in Early Development Oncology",
+    "section": "",
+    "text": "In a rare oncology indication, we planned a small trial and augmented the results with external control data to aid in decision making for the continued development."
+  },
+  {
+    "objectID": "case_studies/DynamicBorrowingEarlyOnco.html#methods-introduction",
+    "href": "case_studies/DynamicBorrowingEarlyOnco.html#methods-introduction",
+    "title": "Dynamic Borrowing in Early Development Oncology",
+    "section": "Methods Introduction",
+    "text": "Methods Introduction\n…"
+  },
+  {
+    "objectID": "case_studies/DynamicBorrowingEarlyOnco.html#code",
+    "href": "case_studies/DynamicBorrowingEarlyOnco.html#code",
+    "title": "Dynamic Borrowing in Early Development Oncology",
+    "section": "Code",
+    "text": "Code\n\nprint(1:10)\n\n [1]  1  2  3  4  5  6  7  8  9 10"
+  },
+  {
+    "objectID": "case_studies/DynamicBorrowingEarlyOnco.html#references",
+    "href": "case_studies/DynamicBorrowingEarlyOnco.html#references",
+    "title": "Dynamic Borrowing in Early Development Oncology",
+    "section": "References",
+    "text": "References\n…"
+  }
+]
