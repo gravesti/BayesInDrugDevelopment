@@ -10,6 +10,7 @@ website:
     right:
       - about.qmd
       - case_studies.qmd
+      - training.qmd
       - contributing.qmd
 
 format:
